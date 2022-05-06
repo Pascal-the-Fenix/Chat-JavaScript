@@ -1,0 +1,15 @@
+{
+  "name": "usuarios",
+  "version": "0.0.1",
+  "description": "Plantilla servidor node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
